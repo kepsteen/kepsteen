@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kepsteen&label=Profile%20views&color=0e75b6&style=flat" alt="kepsteen" /> </p>
 
-- 🌱 I’m currently learning **React, Tailwind Css**
+- 🌱 I’m currently building with **React, Tailwind Css, Node, Express and PostgreQL**
 
 - 📫 How to reach me **codyepstein@gmail.com**
 
