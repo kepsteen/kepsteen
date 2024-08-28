@@ -8,7 +8,7 @@
 - 📫 How to reach me **codyepstein@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<a href='https://www.linkedin.com/in/cody-epstein' target="_blank" rel="nofollow noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1024px-LinkedIn_Logo.svg.png" width=80 ></a>
+<a href='https://www.linkedin.com/in/cody-epstein' target="_blank" rel="nofollow noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width=80 ></a>
 <p align="left">
 </p>
 
