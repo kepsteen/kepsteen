@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on pickle-pal, a platform for finding pickleball partners in your are<br>🌱 I’m currently building with Next.js, React, TypeScript, Node and PostgreSQL<br>
+🔭 I’m currently working on pickle-pal, a platform for finding pickleball partners in your area<br>🌱 I’m currently building with Next.js, React, TypeScript, Node and PostgreSQL<br>
 
 
 ## 🌐 Socials:
